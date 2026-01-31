@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @atousa-najafi
-- 👀 I’m a WordPress Developer
-- 🌱 I’m currently working as a freelancer
+- 👀 I’m a frontend WordPress Developer and technical customer support engineer 
 - 📫 You can reach me at atousa.najafi@gmail.com
 
 <!---
